@@ -20,12 +20,14 @@ yolo推理训练，model文件夹为训练好的模型，e100b16指epochs为100�
 
 对test图片进行测试
 
+![1](https://github.com/1527171/HandRaisingDetector-YOLO12n/blob/master/test_out/4.png)
+
+
 ## video_test.py
 
 将视频中举手同学进行标注
-## 安装步骤
 
-### 克隆仓库
+## 克隆仓库
 ```bash
 git clone https://github.com/your-username/HandRaisingDetector-YOLOv8.git
 cd HandRaisingDetector-YOLOv8

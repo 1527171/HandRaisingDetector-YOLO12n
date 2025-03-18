@@ -14,7 +14,7 @@ https://github.com/Whiffe/SCB-dataset
 
 ## train.py
 
-yolo推理训练
+yolo推理训练，model文件夹为训练好的模型，e100b16指epochs为100，batch为16.
 
 ## test.py
 

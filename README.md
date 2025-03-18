@@ -16,6 +16,12 @@ https://github.com/Whiffe/SCB-dataset
 
 yolo推理训练，model文件夹为训练好的模型，e100b16指epochs为100，batch为16.
 
+训练效果：
+
+
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 18/18 [00:03<00:00,  4.52it/s]
+                   all        560       1737      0.745       0.67      0.762      0.513
+
 ## test.py
 
 对test图片进行测试

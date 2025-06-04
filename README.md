@@ -35,6 +35,6 @@ yolo推理训练，model文件夹为训练好的模型，e100b16指epochs为100�
 
 ## 克隆仓库
 ```bash
-git clone https://github.com/your-username/HandRaisingDetector-YOLOv8.git
+git clone https://github.com/your-username/HandRaisingDetector-YOLO12n.git
 cd HandRaisingDetector-YOLOv8
 
